@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
 </div>
-<br>
 <div align="center">
     <p>
         <img align="center"
