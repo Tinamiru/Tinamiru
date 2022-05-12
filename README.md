@@ -35,7 +35,7 @@
 <div align="center">
     <p>
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=Tinamiru&show_icons=true&locale=en"
+             src="https://github-readme-stats.vercel.app/api?username=Tinamiru&show_icons=true&locale=en&bg_color=DEG,f794a4,fdd6bd&text_color=FFFFFF&title_color=FFFFFF"
              alt="Tinamiru"/>
     </p>
     <p>
