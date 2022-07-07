@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the/badge&logo=jQuery&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the/badge&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the/badge&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the/badge&logo=Kotlin&logoColor=white"/>
 </div>
 <p>
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=B0E1FA&height=40&section=header&text=DB&animation=fadeIn&fontColor=4B0082&fontAlignY=70&fontSize=23" />
@@ -36,6 +37,18 @@
     <img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the/badge&logo=Microsoft SQL Server&logoColor=white"/>
 </div>
 </p>
+
+<p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=B0E1FA&height=40&section=header&text=Integrated%20Development%20Environment&animation=fadeIn&fontColor=ff7e00&fontAlignY=70&fontSize=23" />
+</p>
+<p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the/badge&logo=Eclipse IDE&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the/badge&logo=IntelliJ IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the/badge&logo=Visual Studio Code&logoColor=white"/>
+</div>
+</p>
+
 <div align="center">
     <p>
         <img align="center"
