@@ -1,7 +1,6 @@
 
 <div align="center">
     <p>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E1FA,87:FBF0EA&height=200&section=header&text=Hi!%20Take%20a%20Look!&desc=It's%20me, Jay_aaal!!!&descAlign=13.5&descAlignY=46&descSize=23&animation=fadeIn&fontColor=ffffff&fontAlign=22&fontAlignY=26&fontSize=45" />
          <img src="https://capsule-render.vercel.app/api?type=transparent&color=B0E1FA&height=40&section=header&text=Introduction&animation=fadeIn&fontColor=8B4513&fontSize=23" />
     </p>
     <p>
@@ -17,15 +16,14 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=B0E1FA&height=30&section=header&text=Work%20On&animation=fadeIn&fontColor=4169E1&fontSize=23" />
 </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the/badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-007396?style=for-the/badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the/badge&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the/badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the/badge&logo=JavaScript&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the/badge&logo=jQuery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the/badge&logo=Bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the/badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the/badge&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the/badge&logo=Spring&logoColor=white"/>
 </div>
 
 <p>
